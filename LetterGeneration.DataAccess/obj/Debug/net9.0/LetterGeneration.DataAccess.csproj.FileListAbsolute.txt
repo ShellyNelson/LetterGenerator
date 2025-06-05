@@ -1,0 +1,4 @@
+D:\dev\git\Personal\LetterGeneration\LetterGeneration.DataAccess\obj\Debug\net8.0\LetterGeneration.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\git\Personal\LetterGeneration\LetterGeneration.DataAccess\obj\Debug\net8.0\LetterGeneration.DataAccess.AssemblyInfoInputs.cache
+D:\dev\git\Personal\LetterGeneration\LetterGeneration.DataAccess\obj\Debug\net8.0\LetterGeneration.DataAccess.AssemblyInfo.cs
+D:\dev\git\Personal\LetterGeneration\LetterGeneration.DataAccess\obj\Debug\net8.0\LetterGeneration.DataAccess.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+D:\dev\git\Personal\LetterGeneration\LetterGeneration.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_LetterGeneration.Tests
+D:\dev\git\Personal\LetterGeneration\LetterGeneration.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_LetterGeneration.Tests
+D:\dev\git\Personal\LetterGeneration\LetterGeneration.Tests\obj\Debug\net8.0\LetterGeneration.Tests.csproj.AssemblyReference.cache
+D:\dev\git\Personal\LetterGeneration\LetterGeneration.Tests\obj\Debug\net8.0\LetterGeneration.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\git\Personal\LetterGeneration\LetterGeneration.Tests\obj\Debug\net8.0\LetterGeneration.Tests.AssemblyInfoInputs.cache
+D:\dev\git\Personal\LetterGeneration\LetterGeneration.Tests\obj\Debug\net8.0\LetterGeneration.Tests.AssemblyInfo.cs
+D:\dev\git\Personal\LetterGeneration\LetterGeneration.Tests\obj\Debug\net8.0\LetterGeneration.Tests.csproj.CoreCompileInputs.cache

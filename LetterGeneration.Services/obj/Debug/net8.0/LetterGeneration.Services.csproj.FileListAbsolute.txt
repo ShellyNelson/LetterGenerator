@@ -1,0 +1,4 @@
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/LetterGeneration.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/LetterGeneration.Services.AssemblyInfoInputs.cache
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/LetterGeneration.Services.AssemblyInfo.cs
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/LetterGeneration.Services.csproj.CoreCompileInputs.cache

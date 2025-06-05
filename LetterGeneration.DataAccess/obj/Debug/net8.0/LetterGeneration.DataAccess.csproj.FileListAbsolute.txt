@@ -1,0 +1,5 @@
+/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/obj/Debug/net8.0/LetterGeneration.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/obj/Debug/net8.0/LetterGeneration.DataAccess.AssemblyInfoInputs.cache
+/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/obj/Debug/net8.0/LetterGeneration.DataAccess.AssemblyInfo.cs
+/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/obj/Debug/net8.0/LetterGeneration.DataAccess.csproj.CoreCompileInputs.cache
+/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/obj/Debug/net8.0/LetterGeneration.DataAccess.csproj.AssemblyReference.cache
