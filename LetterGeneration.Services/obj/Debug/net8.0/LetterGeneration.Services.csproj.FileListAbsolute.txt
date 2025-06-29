@@ -2,3 +2,15 @@
 /home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/LetterGeneration.Services.AssemblyInfoInputs.cache
 /home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/LetterGeneration.Services.AssemblyInfo.cs
 /home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/LetterGeneration.Services.csproj.CoreCompileInputs.cache
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/LetterGeneration.Services.csproj.AssemblyReference.cache
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/LetterGeneration.Services.sourcelink.json
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/bin/Debug/net8.0/LetterGeneration.Services.deps.json
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/bin/Debug/net8.0/LetterGeneration.Services.dll
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/bin/Debug/net8.0/LetterGeneration.Services.pdb
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/bin/Debug/net8.0/LetterGeneration.DataAccess.dll
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/bin/Debug/net8.0/LetterGeneration.DataAccess.pdb
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/LetterGeneration.Services.csproj.CopyComplete
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/LetterGeneration.Services.dll
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/refint/LetterGeneration.Services.dll
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/LetterGeneration.Services.pdb
+/home/shellymn/git/LetterGenerator/LetterGeneration.Services/obj/Debug/net8.0/ref/LetterGeneration.Services.dll

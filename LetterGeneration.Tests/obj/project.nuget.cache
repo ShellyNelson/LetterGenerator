@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6bj7Lyu1bhhlYAmL50xL5BFbrRaIwJzfEKI00zmzDrEl6F5jOzsLahlXO/Hp+lE8XrEOM3xoWCYKH4XrKkZrxA==",
+  "dgSpecHash": "mdtk49DbnK7Z1yV8DN9LoYknIhRP99nwHAv/bQcYX5JjnQUBMhJTXVESDPHjqU2sr2UL/Np5HgLS2n2ZENwwsA==",
   "success": true,
   "projectFilePath": "/home/shellymn/git/LetterGenerator/LetterGeneration.Tests/LetterGeneration.Tests.csproj",
   "expectedPackageFiles": [

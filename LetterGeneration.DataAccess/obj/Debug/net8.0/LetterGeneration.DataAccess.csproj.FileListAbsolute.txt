@@ -3,3 +3,11 @@
 /home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/obj/Debug/net8.0/LetterGeneration.DataAccess.AssemblyInfo.cs
 /home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/obj/Debug/net8.0/LetterGeneration.DataAccess.csproj.CoreCompileInputs.cache
 /home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/obj/Debug/net8.0/LetterGeneration.DataAccess.csproj.AssemblyReference.cache
+/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/obj/Debug/net8.0/LetterGeneration.DataAccess.sourcelink.json
+/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/bin/Debug/net8.0/LetterGeneration.DataAccess.deps.json
+/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/bin/Debug/net8.0/LetterGeneration.DataAccess.dll
+/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/bin/Debug/net8.0/LetterGeneration.DataAccess.pdb
+/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/obj/Debug/net8.0/LetterGeneration.DataAccess.dll
+/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/obj/Debug/net8.0/refint/LetterGeneration.DataAccess.dll
+/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/obj/Debug/net8.0/LetterGeneration.DataAccess.pdb
+/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/obj/Debug/net8.0/ref/LetterGeneration.DataAccess.dll

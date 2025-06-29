@@ -1,3 +1,4 @@
+using LetterGeneration.DataAccess;
 using LetterGeneration.DataAccess.Models;
 using LetterGeneration.DataAccess.Repositories;
 using LetterGeneration.Tests.TestHelpers;

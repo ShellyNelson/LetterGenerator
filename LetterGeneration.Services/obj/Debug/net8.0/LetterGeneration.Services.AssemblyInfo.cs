@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LetterGeneration.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c18e4d7d246ddad8e7d6ff6953a72e4c9881f15d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LetterGeneration.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LetterGeneration.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wlEZU6UCyDJ8IabKpFtOEDvhuQAmWZW7tAGydnDNFD7UyskmBSZImxqhvWJzY3pkHqZzAQmJSOkgz6Ii+m4kNA==",
+  "dgSpecHash": "2U7LSwOSduk/LUKmnrO+wMVIR1rQnszj0V9xerVzvyXVmDIkOzNUaMMyf08caGI1nli6KB1qPwr5YE6KoMB97Q==",
   "success": true,
   "projectFilePath": "/home/shellymn/git/LetterGenerator/LetterGeneration.Services/LetterGeneration.Services.csproj",
   "expectedPackageFiles": [

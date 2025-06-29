@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IYaob/+r65dpt6Kp4lBGrtwkZPK0nqxhPG0+jRgp2nOisHPqIJP0+5SjbHGFxMtgFWO9b0KL2J0qyqCmHqYVsQ==",
+  "dgSpecHash": "VHsMdnJuGWRzoYkukkLZvaS1AlED52tWcMfvIhnmUQvm3D/1eVjJHXhgh6U6ATtKwxlsjta10egj+Q2GZg6kcA==",
   "success": true,
   "projectFilePath": "/home/shellymn/git/LetterGenerator/LetterGeneration.DataAccess/LetterGeneration.DataAccess.csproj",
   "expectedPackageFiles": [
